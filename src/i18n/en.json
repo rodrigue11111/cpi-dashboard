@@ -1,0 +1,13 @@
+{
+  "title": "Canadian CPI Dashboard",
+  "subtitle": "12-month % change in CPI (Mar 2020 – May 2025)",
+  "selectMonth": "Select month",
+  "foodCpi": "Food CPI",
+  "allItemsCpi": "All-items CPI",
+  "noData": "No data for",
+  "lineChartTitle": "12-month % change: Food vs All-items",
+  "barChartTitle": "Snapshot for {{month}}",
+  "aboutCpiTitle": "What is the Consumer Price Index (CPI)?",
+  "aboutCpiBody": "The CPI measures the average change over time in the prices paid by consumers for a basket of goods and services. Statistics Canada publishes the CPI monthly. Policymakers and businesses watch CPI trends to understand inflation, set interest rates, and adjust wages.",
+  "portfolioLink": "Visit my portfolio"
+}

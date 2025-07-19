@@ -1,0 +1,13 @@
+{
+  "title": "Tableau de bord de l’IPC canadien",
+  "subtitle": "Variation annuelle de l’IPC (mars 2020 – mai 2025)",
+  "selectMonth": "Choisir le mois",
+  "foodCpi": "IPC — Alimentation",
+  "allItemsCpi": "IPC — Ensemble",
+  "noData": "Pas de données pour",
+  "lineChartTitle": "Variation sur 12 mois : Aliments vs Ensemble",
+  "barChartTitle": "Instantané pour {{month}}",
+  "aboutCpiTitle": "Qu’est-ce que l’Indice des prix à la consommation (IPC) ?",
+  "aboutCpiBody": "L’IPC mesure la variation moyenne, au fil du temps, des prix payés par les consommateurs pour un panier de biens et services. Statistique Canada publie l’IPC chaque mois. Les décideurs et les entreprises suivent les tendances de l’IPC pour comprendre l’inflation, fixer les taux d’intérêt et ajuster les salaires.",
+  "portfolioLink": "Voir mon portfolio"
+}
