@@ -93,7 +93,7 @@ export default function App() {
         </GlassCard>
       </div>
 
-      {/* ---------- FOOTER LINK TO YOUR PORTFOLIO ---------- */}
+      {/* ---------- FOOTER LINK TO my PORTFOLIO ---------- */}
       <footer className="text-center text-xs text-slate-500 pt-10">
         <a
           href="https://rodrigue11111.github.io/my-portfolio/"
